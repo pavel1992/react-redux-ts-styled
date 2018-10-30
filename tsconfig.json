@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "module": "commonjs",
+    "rootDirs": ["src", "stories"],
+    "target": "es6",
+    "jsx": "react",
+    "experimentalDecorators": true
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["./node_modules"]
+}

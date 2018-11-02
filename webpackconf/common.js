@@ -5,7 +5,7 @@ const webpack = require('webpack');
 
 
 const PATHS = {
-    bundle: path.resolve(__dirname, 'dist'),
+    bundle: path.resolve(__dirname, '../dist'),
 };
 
 const entries = {
